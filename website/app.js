@@ -1,6 +1,5 @@
 /* Global Variables */
 const baseUrl = 'api.openweathermap.org/data/2.5/weather?'
-const apikey =  '8eedc045220d303fc839d484a1f48e74&units=metric'
 const generateBtn = document.getElementById('generate');
 // Create a new date instance dynamically with JS
 let d = new Date();
